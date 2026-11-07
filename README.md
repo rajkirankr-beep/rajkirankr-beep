@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Rajkiran%20K%20R&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20%26%20Developer&descAlignY=58&descSize=20" alt="banner" />
 
 <div align="center">
 
