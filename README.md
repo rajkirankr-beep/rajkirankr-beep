@@ -1,17 +1,71 @@
-<!-- Palette (60-30-10) 60% #0d1117 deep night 30% #161b22 / #8b949e slate + soft grey 10% #58a6ff electric blue (accent only) --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1f6feb&height=190&section=header&text=Rajkiran%20K.%20Rajendran&fontColor=f0f6fc&fontSize=38&fontAlignY=38&desc=builds%20things%20worth%20remembering&descColor=8b949e&descSize=15&descAlignY=58" alt="header" /> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&background=0D111700&center=true&vCenter=true&width=560&lines=Engineering+%2B+design%2C+one+build+at+a+time;Web+%C2%B7+Mobile+%C2%B7+Automation;IIIT+Kottayam+%C2%B7+Kerala%2C+India;Open+for+internships+%E2%80%94+relocation+welcome" alt="typing" />
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Rajkiran K. Rajendran, engineering and design, built together" />
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-58a6ff?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/IIIT-Kottayam-8b949e?style=flat-square&labelColor=161b22" /> <img src="https://img.shields.io/badge/relocation-yes-8b949e?style=flat-square&labelColor=161b22" /> </div> <br/> <div align="center"> <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub> <br/><br/> <b>I turn ambitious ideas into polished products,</b><br/> blending engineering and design into<br/> experiences worth remembering. <br/><br/> <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub> </div> <br/> <h3>&nbsp;◦ &nbsp;now</h3> <pre> studying algorithms, databases shipping small tools that solve my own problems learning something new every week looking internships, relocation welcome </pre> <br/> <h3>&nbsp;◦ &nbsp;toolkit</h3> <div align="center"> <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Dart-161b22?style=for-the-badge&logo=dart&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Firebase-161b22?style=for-the-badge&logo=firebase&logoColor=58a6ff" /> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=58a6ff" /> </div> <br/> <h3>&nbsp;◦ &nbsp;the snake is hungry</h3> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake.svg" /> <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake-dark.svg" /> </picture>
+<div align="center">
 
-<sub>every commit you see is a commit it eats</sub>
+I'm a student at IIIT Kottayam, Kerala.<br/>
+I like building the whole thing: the interface people touch and the system underneath it.
 
-</div> <br/> <h3>&nbsp;◦ &nbsp;say hi</h3> <div align="center">
+<br/>
 
-<a href="mailto:rajkirankrajendran@gmail.com"><img src="https://img.shields.io/badge/email-rajkirankrajendran@gmail.com-58a6ff?style=for-the-badge&labelColor=161b22" /></a>
+**Open to internships. Happy to relocate.**
 
-<br/><br/>
+</div>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a> <a href="https://www.instagram.com/ra._.kiran/"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=58a6ff" /></a>
+<br/>
 
-</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1f6feb&height=110&section=footer" alt="footer" />
+<h3 align="center">Now</h3>
+
+<div align="center">
+
+Studying algorithms and databases<br/>
+Shipping small tools that solve my own problems<br/>
+Learning one new thing every week
+
+</div>
+
+<br/>
+
+<h3 align="center">Tools</h3>
+
+<div align="center">
+
+React &nbsp;/&nbsp; Flutter &nbsp;/&nbsp; Dart &nbsp;/&nbsp; JavaScript &nbsp;/&nbsp; Python<br/>
+Java &nbsp;/&nbsp; C &nbsp;/&nbsp; Firebase &nbsp;/&nbsp; Git
+
+</div>
+
+<!--
+Add a "Work" section here once you pin 2-3 repos. One line each on the problem it solves:
+
+<h3 align="center">Work</h3>
+<div align="center">
+  <a href="https://github.com/rajkirankr-beep/REPO"><b>Repo name</b></a><br/>
+  One line on what it does and who it is for.
+</div>
+-->
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake.svg" />
+    <img width="100%" alt="Contribution graph with a snake eating the commits" src="https://raw.githubusercontent.com/rajkirankr-beep/rajkirankr-beep/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<h3 align="center">Contact</h3>
+
+<div align="center">
+
+<a href="mailto:rajkirankrajendran@gmail.com">rajkirankrajendran@gmail.com</a><br/>
+<a href="https://www.instagram.com/ra._.kiran/">Instagram</a>
+<!-- Add LinkedIn when ready:  &nbsp;/&nbsp; <a href="https://linkedin.com/in/YOUR-HANDLE">LinkedIn</a> -->
+
+</div>
